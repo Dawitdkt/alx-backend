@@ -38,4 +38,3 @@ my_cache.put("L", "L")
 my_cache.print_cache()
 my_cache.put("M", "M")
 my_cache.print_cache()
-
